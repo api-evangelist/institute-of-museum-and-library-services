@@ -9,9 +9,9 @@ type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Federal Government
-  - Museums
-  - Libraries
   - Grants
+  - Libraries
+  - Museums
 url: >-
   https://raw.githubusercontent.com/api-evangelist/institute-of-museum-and-library-services/refs/heads/main/apis.yml
 created: '2024-12-03'
@@ -27,9 +27,9 @@ apis:
     humanURL: https://www.imls.gov/research-evaluation/data-collection/museum-data-files
     tags:
       - Federal Government
-      - Museums
-      - Libraries
       - Grants
+      - Libraries
+      - Museums
     properties:
       - type: Documentation
         url: https://www.imls.gov/research-evaluation/data-collection/museum-data-files
