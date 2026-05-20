@@ -34,6 +34,10 @@ apis:
       - type: Documentation
         url: https://www.imls.gov/research-evaluation/data-collection/museum-data-files
 common:
+  - type: GitHubOrganization
+    url: https://github.com/imls
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/us-imls
   - type: Website
     url: https://www.imls.gov/
   - type: Support
