@@ -6,7 +6,7 @@ description: >-
   related organizations through grantmaking, research, and policy development.
   IMLS provides data access to grant and museum information through its APIs.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Federal Government
   - Grants
