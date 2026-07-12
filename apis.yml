@@ -34,6 +34,8 @@ apis:
       - type: Documentation
         url: https://www.imls.gov/research-evaluation/data-collection/museum-data-files
 common:
+  - type: DomainSecurity
+    url: security/institute-of-museum-and-library-services-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/imls
   - type: LinkedIn
@@ -42,6 +44,8 @@ common:
     url: https://www.imls.gov/
   - type: Support
     url: https://www.imls.gov/contact
+  - url: https://www.imls.gov/blog
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
