@@ -31,15 +31,16 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/institute-of-museum-and-library-services.png
 tags:
-  - Federal-Government
+  - Federal Government
   - Grants
-  - Libraries
+  - Library
   - Museums
 tags_raw:
   - Federal Government
   - Grants
   - Libraries
   - Museums
+  - Federal-Government
 url: >-
   https://raw.githubusercontent.com/api-evangelist/institute-of-museum-and-library-services/refs/heads/main/apis.yml
 created: '2024-12-03'
@@ -54,15 +55,16 @@ apis:
       to access grant information, museum locations, and program data.
     humanURL: https://www.imls.gov/research-evaluation/data-collection/museum-data-files
     tags:
-      - Federal-Government
+      - Federal Government
       - Grants
-      - Libraries
+      - Library
       - Museums
     tags_raw:
       - Federal Government
       - Grants
       - Libraries
       - Museums
+      - Federal-Government
     properties:
       - type: Documentation
         url: https://www.imls.gov/research-evaluation/data-collection/museum-data-files
